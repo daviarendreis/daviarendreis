@@ -1,5 +1,5 @@
-<h1 align="center">Davi Arend Reis</h1>
-<p align="center">`Software Engineer in the making`</p>
+<h1>Davi Arend Reis</h1>
+<p><code>Software Engineer in the making</code></p>
 
 ---
 
