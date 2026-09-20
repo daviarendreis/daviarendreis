@@ -27,4 +27,4 @@ I learn by building. My goal is to become a solid fullstack developer, and every
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 ###  What I'm building
 
-**Canivete** — my personal hub of daily-use web apps, built to bring my own tools together in one place. I'm currently rebuilding it in React + TypeScript.
+**Canivete** — my personal hub of daily-use web apps, built to bring my own tools together in one place. Rebuilt in React + TypeScript.
